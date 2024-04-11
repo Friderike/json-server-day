@@ -1,0 +1,28 @@
+{
+  "daily-plan": [
+    {
+      "task": "Finish json server",
+      "category": "Study",
+      "time": "10:00",
+      "id": 1
+    },
+    {
+      "task": "Finish deploy json server",
+      "category": "Study",
+      "time": "12:00",
+      "id": 1
+    },
+    {
+      "task": "Work on Jira ticket",
+      "category": "Work",
+      "time": "14:00",
+      "id": 1
+    },
+    {
+      "task": "Exercise",
+      "category": "Private",
+      "time": "14:00",
+      "id": 1
+    }
+  ]
+}
