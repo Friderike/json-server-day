@@ -4,25 +4,33 @@
       "task": "Finish json server",
       "category": "Study",
       "time": "10:00",
+      "description": "Finish the json server and deploy it on Vercel. Need to make sure that the server is working correctly and that the data is being fetched correctly.",
+      "estimated-time": "1h",
       "id": 1
     },
     {
-      "task": "Finish deploy json server",
+      "task": "Work on Todo app",
       "category": "Study",
       "time": "12:00",
-      "id": 1
+      "description": "Work on the Todo design / css. Make sure that the app is responsive and that the data is being fetched correctly. Implement routing.",
+      "estimated-time": "2h",
+      "id": 2
     },
     {
       "task": "Work on Jira ticket",
       "category": "Work",
       "time": "14:00",
-      "id": 1
+      "description": "Work on the Jira ticket that is assigned to me. Make sure that the ticket is being finished and that the code is being pushed to the repository.",
+      "estimated-time": "3h",
+      "id": 3
     },
     {
       "task": "Exercise",
       "category": "Private",
       "time": "14:00",
-      "id": 1
+      "description": "Go for a run or hike, workout, stretch, relax.",
+      "estimated-time": "1h",
+      "id": 4
     }
   ]
 }
